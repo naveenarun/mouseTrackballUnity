@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polarized Slats", "Polarized Slats.csproj", "{02B1C995-7536-2BEA-68E5-2BCC1F49A0B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polarized Slats.Plugins", "Polarized Slats.Plugins.csproj", "{4DDFB16C-AF31-C424-4F8D-BBB7B1AA7FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polarized Slats.Editor.Plugins", "Polarized Slats.Editor.Plugins.csproj", "{C85D96CC-2473-4FA4-FF21-41E1E000200D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B1C995-7536-2BEA-68E5-2BCC1F49A0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B1C995-7536-2BEA-68E5-2BCC1F49A0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B1C995-7536-2BEA-68E5-2BCC1F49A0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B1C995-7536-2BEA-68E5-2BCC1F49A0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DDFB16C-AF31-C424-4F8D-BBB7B1AA7FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDFB16C-AF31-C424-4F8D-BBB7B1AA7FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDFB16C-AF31-C424-4F8D-BBB7B1AA7FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDFB16C-AF31-C424-4F8D-BBB7B1AA7FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85D96CC-2473-4FA4-FF21-41E1E000200D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85D96CC-2473-4FA4-FF21-41E1E000200D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85D96CC-2473-4FA4-FF21-41E1E000200D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85D96CC-2473-4FA4-FF21-41E1E000200D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
